@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Estagiário na Biblioteca Central do Campus USP de Ribeirão Preto como Desenvolvedor Web. Cursando o Bacharelado em Ciência da Computação pela Universidade de São Paulo (USP), pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP) , por meio do Programa de Estudantes-Convênio de Graduação (PEC-G). Possui interesse nas áreas de sistemas web, inteligência artificial e soluções tecnológicas aplicadas à educação e gestão financeira. Atua também como desenvolvedor na área de tecnologia, com foco em inovação digital e inclusão tecnológica. "[Entrar en contato](fonteboa@usp.br)"
+Desenvolvedor Web. Cursando o Bacharelado em Ciência da Computação pela Universidade de São Paulo (USP), pela Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto (FFCLRP) , por meio do Programa de Estudantes-Convênio de Graduação (PEC-G). Possui interesse nas áreas de sistemas web, inteligência artificial e soluções tecnológicas aplicadas à educação e gestão financeira. Atua também como desenvolvedor na área de tecnologia, com foco em inovação digital e inclusão tecnológica. "[Entrar en contato](fonteboa@usp.br)"
 
 <p align="left">
     <a href="https://www.youtube.com/@youngdexyzin?sub_confirmation=1">
