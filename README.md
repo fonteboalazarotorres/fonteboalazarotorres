@@ -129,8 +129,8 @@ Desenvolvedor Web. Cursando o Bacharelado em Ciência da Computação pela Unive
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="WordPress" 
+    title="WordPress"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" 
